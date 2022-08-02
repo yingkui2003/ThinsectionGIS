@@ -4,6 +4,9 @@ This document provides a guide on how to perform thin section GIS analysis using
 # How to download and use this toolbox in ArcGIS or ArcGIS Pro
 The github site includes a GIS model file (Thin Section GIS.tbx) and three thin section images taken from different angles (-15, 0, +15). These image files will provide an example of the thin section GIS analysis. You can also find a pdf file of the instruction and a published paper about this toolbox.
 
+![image](https://user-images.githubusercontent.com/24683137/182475181-006e8429-384e-4683-b47a-9f5f7778686a.png)
+
+
 A zip file of the while github folder will be downloaded to the local computer. Unzip this file will create a ThinsectionGIS-main folder with both the tbx file and all other files. Note that the original models were developed in ArcGIS 9.1 and some functions may need to change or replaced using other functions in the recent versions of ArcGIS or ArcGIS Pro. Please report any errors or questions to Yingkui Li (yli32@utk.edu).
 
 # Load the GIS model into ArcGIS
