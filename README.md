@@ -38,14 +38,21 @@ Basically, you need input three images taken from different angles. Each image w
 
 If you want to edit the model to change numbers of images used for the analysis, you can right click the model and choose “Edit”. The modelbuilder window will show up and show the model (See the following figure).
 
+![image](https://user-images.githubusercontent.com/24683137/182475729-6e704e9c-934a-470b-9c3d-da7d383b8f64.png)
+
+
 Following the help of the modelbuilder, you can easily add more thin section images in to the model and even adjust the steps of the analysis process.
 
 # Single Image/Raster Boundary Model
 
 This model is for the boundary extraction process of a single image or a single band of the image. This is a sub-model for the whole thin section GIS analysis. However, you can also run it individually and even modified it if you want to include more functions into the boundary extraction. The following figure shows this model.
+![image](https://user-images.githubusercontent.com/24683137/182475777-22110de4-634f-4cd7-9a4c-b4ec5f4ea53d.png)
+
 
 # Noise Reduction Model
 The “Noise Reduction” is to reduce the noise of the image in order to extract the grain boundary. This is also a sub-model for the whole thin section GIS analysis and you can also run it individually and modified it if you want. The following figure shows this model.
+![image](https://user-images.githubusercontent.com/24683137/182475832-41834478-6016-403e-9caf-d30d3f2446c6.png)
+
 
 # Cite this work
 Yingkui Li, Charles M. Onasch, Yonggui Guo, 2008. GIS-based detection of grain boundaries. Journal of Structural Geology 30(4), 431-443. https://doi.org/10.1016/j.jsg.2007.12.007.
