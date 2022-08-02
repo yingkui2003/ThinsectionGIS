@@ -31,6 +31,8 @@ After you add the toolbox into the ArcToolBox, you will see a new toolbox (Thin 
 # Thin Section Analysis (3 Images) Model
 
 If you double click the “Thin Section Analysis (3 Images)” model, the model dialog will show up (the following figure), so you can assign your images into the model, specify the model output and adjust the model parameters.
+![image](https://user-images.githubusercontent.com/24683137/182475579-0299f50f-b418-4628-af3d-af3a7279f1a8.png)
+
 
 Basically, you need input three images taken from different angles. Each image will have three bands (RGB). So you have totally 9 input image bands. There are also two neighborhood windows for the filtering process inside the GIS model. The default value is 7 and 5. You can use these values when you first run this model, and you can also change these values to test the differences of the results. This model has two outputs: one the grain boundaries (line feature, shapefile), the other is the coverage of the grain polygons. To report these two features is because not all grain boundaries can close up and form the grain polygons. If you want to do additional editing work on the boundaries to make sure more grain polygons will be generated or get rid of some small polygons, you can edit the linear shapefile of the grain boundaries and then use the edited boundaries to generate the grain polygon coverage.
 
