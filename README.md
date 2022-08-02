@@ -31,3 +31,20 @@ This model is for the boundary extraction process of a single image or a single 
 5. Noise Reduction Model
 The “Noise Reduction” is to reduce the noise of the image in order to extract the grain boundary. This is also a sub-model for the whole thin section GIS analysis and you can also run it individually and modified it if you want. The following figure shows this model.
 
+# Cite this work
+Li Y., in review. PalaeoIce: an automated method to reconstruct palaeoglacier using geomorphic evidence and digital elevation models.
+
+# Contact info
+Yingkui Li
+
+Department of Geography & Sustainability
+
+University of Tennessee
+
+Knoxville, TN 37996
+
+Email: yli32@utk.edu
+
+Website: https://geography.utk.edu/about-us/faculty/dr-yingkui-li/
+
+Google Scholar: https://scholar.google.com/citations?user=JoNuyCMAAAAJ&hl=en&oi=ao
