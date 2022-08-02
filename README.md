@@ -1,14 +1,18 @@
-# ThinsectionGIS
-An ArcGIS model to delineate grain boundary from thin section photos
-This document provides a guide on how to perform thin section GIS analysis using ArcGIS Modelbuilder. The ArcGIS used in the analysis should have ArcInfo license, support spatial analysis extension and with version of 9.1 or later.
+# ThinsectionGIS: An ArcGIS model to delineate grain boundary from thin section photos
+This document provides a guide on how to perform thin section GIS analysis using ArcGIS Modelbuilder. The ArcGIS used in the analysis should have ArcInfo license, support spatial analysis extension and with version of 9.1 or later. 
+
+# How to download and use this toolbox in ArcGIS or ArcGIS Pro
+The github site includes a GIS model file (Thin Section GIS.tbx) and three thin section images taken from different angles (-15, 0, +15). These image files will provide an example of the thin section GIS analysis. You can also find a pdf file of the instruction and a published paper about this toolbox.
+
+A zip file of the while github folder will be downloaded to the local computer. Unzip this file will create a ThinsectionGIS-main folder with both the tbx file and all other files. Note that the original models were developed in ArcGIS 9.1 and some functions may need to change or replaced using other functions in the recent versions of ArcGIS or ArcGIS Pro. Please report any errors or questions to Yingkui Li (yli32@utk.edu).
 
 # Load the GIS model into ArcGIS
 
-Download and unzip the zipped file into a folder your computer. This folder is the place you perform the thin section GIS analysis. The zip file includes a GIS model file (Thin Section GIS.tbx) and three thin section images taken from different angles (-15, 0, +15). These image files will provide an example of the thin section GIS analysis. If you want to run the analysis using your own thin section images, it is better to put your own thin section images into this folder.
-Open the ArcGIS and make sure the ArcToolBox is available. You can also find a pdf file of the instruction and a published paper about this toolbox.
+Unzip the zipped file into a folder your computer. This folder is the place you perform the thin section GIS analysis. If you want to run the analysis using your own thin section images, it is better to put your own thin section images into this folder. 
 
-In the ArcToolBox, right click the “ArcToolBox” and choose “Add Toolbox…”. Then, an Add Toolbox Dialog shows up, you can browse the folder with the GIS model and choose the GIS model to add it into the ArcToolBox. The following figure shows how to do this step in ArcGIS.
+Open the ArcGIS and make sure the ArcToolBox is available. In the ArcToolBox, right click the “ArcToolBox” and choose “Add Toolbox…”. Then, an Add Toolbox Dialog shows up, you can browse the folder with the GIS model and choose the GIS model to add it into the ArcToolBox. The following figure shows how to do this step in ArcGIS.
 
+You can also find this toolbox in the Catalog Panel and you can run the tools by double clicking the tools there.
 
 # Thin section GIS model
 
