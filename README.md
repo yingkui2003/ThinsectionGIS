@@ -15,11 +15,18 @@ Unzip the zipped file into a folder your computer. This folder is the place you 
 
 Open the ArcGIS and make sure the ArcToolBox is available. In the ArcToolBox, right click the “ArcToolBox” and choose “Add Toolbox…”. Then, an Add Toolbox Dialog shows up, you can browse the folder with the GIS model and choose the GIS model to add it into the ArcToolBox. The following figure shows how to do this step in ArcGIS.
 
+![image](https://user-images.githubusercontent.com/24683137/182475379-4295f105-a3d8-4c6a-9421-21ab1f4b490d.png)
+
+
 You can also find this toolbox in the Catalog Panel and you can run the tools by double clicking the tools there.
 
 # Thin section GIS model
 
 After you add the toolbox into the ArcToolBox, you will see a new toolbox (Thin Section GIS) in the ArcToolBox. This toolbox includes three GIS models. Please read the paper published in the Journal of Structural Geology for detail description of these models. The “Single Image/Raster Boundary” is for the process of extract boundary (1/0 values for boundary and inside grain) for a single image or a single band of the image. The “Noise Reduction” is to reduce the noise of the image in order to extract the grain boundary. The “Thin Section Analysis(3 Images)” model is a whole model to perform the thin section GIS analysis based on three images taken from different angles (same with the published paper).
+
+![image](https://user-images.githubusercontent.com/24683137/182475444-802ce392-6fe6-49ea-bf84-4ee122b666c3.png)
+
+
 
 # Thin Section Analysis (3 Images) Model
 
